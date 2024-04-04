@@ -1,4 +1,4 @@
-#Car Bot
+# Car Bot
 Discord Bot made using TypeScript!
 
 Personal bot used to track and calculate car pooling expenses.
